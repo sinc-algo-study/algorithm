@@ -1,6 +1,7 @@
 def dfs(color, dept, r, c, d):
     global finish, winner_color, winner_row, winner_col
 
+    check[r][c][d] = True
     if dept >= 5:
         if dept == 5:  # 오목 완성
             finish = True
@@ -12,8 +13,10 @@ def dfs(color, dept, r, c, d):
 
     nr = r + r_list[d]
     nc = c + c_list[d]
-    if not (-1 < nr < N and -1 < nc < N): return
-    if board[nr][nc] != board[r][c] or check[nr][nc][d]: return
+    if not (-1 < nr < N and -1 < nc < N):
+        return
+    if board[nr][nc] != board[r][c] or check[nr][nc][d]:
+        return
     dfs(color, dept + 1, nr, nc, d)
 
     # winner 좌표 체크
@@ -32,13 +35,15 @@ def solution():
     for i in range(N):
         for j in range(N):
             for k in range(8):
-                if board[i][j] == 0 or check[i][j][k]: continue
+                if board[i][j] == 0 or check[i][j][k]:
+                    continue
                 dfs(board[i][j], 1, i, j, k)
 
                 if finish:
                     print(winner_color)
                     print(str(winner_row + 1) + " " + str(winner_col + 1))
                     return
+    print(0)
 
 
 if __name__ == '__main__':
