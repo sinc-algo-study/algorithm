@@ -13,15 +13,15 @@ if __name__ == '__main__':
             y_max = M - start - 1
 
             tmp = arr[start][start]  # 돌리기 전에 가지고 있어야 함
-            for i in range(start, y_max):
+            for j in range(start, y_max):
                 # 위쪽 변. x: 고정, y: ←
-                arr[start][i] = arr[start][i + 1]
+                arr[start][j] = arr[start][j + 1]
             for i in range(start, x_max):
                 # 오른쪽 변. x: ↑, y: 고정
                 arr[i][y_max] = arr[i + 1][y_max]
-            for i in range(y_max, start, -1):
+            for j in range(y_max, start, -1):
                 # 아래쪽 변. x: 고정, y: →
-                arr[x_max][i] = arr[x_max][i - 1]
+                arr[x_max][j] = arr[x_max][j - 1]
             for i in range(x_max, start, -1):
                 # 왼쪽 변. x: ↓, y: 고정
                 arr[i][start] = arr[i - 1][start]
