@@ -48,7 +48,7 @@
 <summary>2주차 - 21.01.24 월요일</summary>
 
 ### 1. [[BOJ] 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
-* 구현(DFS/BFS), 브루트포스
+* 구현(조합), 브루트포스
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 2. [[BOJ] 1715 카드 정렬하기](https://www.acmicpc.net/problem/1715)
 * 우선순위 큐, 그리디
