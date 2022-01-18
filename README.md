@@ -10,9 +10,9 @@
     * `문제 접근 과정`과 `문제 풀이 흐름`을 위주로 설명해주시면 됩니다.
 3. 매 주 문제는 랜덤으로 한 명을 뽑아 출제합니다.
 
-## 💻 풀 문제들 목록
+## 💻 문제 목록
 <details markdown="1">
-<summary>21.01.10 월요일</summary>
+<summary>0주차 - 21.01.10 월요일</summary>
 
 ### 1. [[BOJ] 2615 오목](https://www.acmicpc.net/problem/2615)
 * 구현, 브루트포스
@@ -29,7 +29,7 @@
 </details>
 
 <details markdown="1">
-<summary>21.01.17 월요일</summary>
+<summary>1주차 - 21.01.17 월요일</summary>
 
 ### 1. [[BOJ] 16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 * 구현
@@ -41,6 +41,26 @@
 * 구현, 문자열 다루기
 * ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
 * 2020 KAKAO BLIND RECRUITMENT - 1번 문제
+
+</details>
+
+<details markdown="1">
+<summary>2주차 - 21.01.24 월요일</summary>
+
+### 1. [[BOJ] 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
+* 구현(DFS/BFS), 브루트포스
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 2. [[BOJ] 1715 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+* 우선순위 큐, 그리디
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[PGS] 72412 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+* 구현(자료 구조), 이진 탐색
+* ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
+* 2021 KAKAO BLIND RECRUITMENT - 3번 문제
+### 추가 문제. [[PGS] 60060 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+* 트라이 or 이진 탐색
+* ![LV.4](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%204-red)
+* 2020 KAKAO BLIND RECRUITMENT - 4번 문제
 
 </details>
 
