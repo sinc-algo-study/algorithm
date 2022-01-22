@@ -40,6 +40,7 @@ def make_curv():
 
         # 세대에 맞춰서 각 커브마다 경로를 만들고 그 경로를 따라 점을 찍는다
         path = [d]  # 일단 0세대 방향은 가지고 있어야 함
+
         for _ in range(g):
             temp = [(n + 1) % 4 for n in reversed(path)]
             path += temp
