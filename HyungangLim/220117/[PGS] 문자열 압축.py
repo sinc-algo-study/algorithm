@@ -13,21 +13,29 @@ s의 절반 길이까지만 검사하면 된다.
 프로그래머스는 10초니까 돌아가긴 할 거 같긴 한데...
 시간복잡도 이게 맞나..?
 
+
+500 * 1000
+
+
 '''
+
 
 def solution(s):
     answer = 1001
     if len(s) == 1:  # 예외처리 필수
         return 1
 
-    for i in range(1, int(len(s)/2) + 1):  # 절반만 체크
+    # 500
+    for i in range(1, len(s)//2 + 1):  # 절반만 체크
         p = 0  # 현재 좌표 (position)
         length = len(s)
 
+        # 1000
         while p+i <= len(s):  # 압축 가능 여부 확인 가능한 길이가 남아있는가?
             sub = s[p:p+i]  # JAVA.String.substring() 대신 슬라이싱 사용 가능
             p += i  # 압축이 불가하더라도 포지션은 이동해야한다
 
+            # 1000
             cnt = 0  # 압축 횟수
             while p+i <= len(s):  # 압축 가능 여부 확인 가능한 길이가 남아있는가?
                 if sub == s[p:p+i]:
