@@ -56,7 +56,7 @@ import sys
 input = sys.stdin.readline
 
 
-def calc_distance(copied_board, comb):
+def calc_distance(comb):
     ans = 0  # 집에서 가장 가까운 치킨 거리의 합
 
     for h in house_positions:
@@ -82,14 +82,14 @@ def solution(num):
     for comb in chicken_combs:
         # comb = ((), (), () ... ())
         # 질문 : 이전 반복에서 쓰였던 copied_board는? 메모리 회수 제대로 되는건가?
-        copied_board = copy.deepcopy(board)
-
-        for t in comb:
-            r, c = t[0], t[1]
-            copied_board[r][c] = 2
+        # 생각해보니... copied_board는 딱히 필요가 없네??
+        # copied_board = copy.deepcopy(board)
+        # for t in comb:
+        #     r, c = t[0], t[1]
+        #     copied_board[r][c] = 2
 
         # 이제 치킨 거리의 합을 구한다
-        chicken_distance = calc_distance(copied_board, comb)  # 하나의 조합에 대한 치킨 거리의 합
+        chicken_distance = calc_distance(comb)  # 하나의 조합에 대한 치킨 거리의 합
         ans = min(ans, chicken_distance)
 
     return ans
