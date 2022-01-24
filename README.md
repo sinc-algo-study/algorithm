@@ -95,3 +95,28 @@ $ git clone https://github.com/{본인 계정}/algorithm.git
 
 7. 본인이 작성한 Pull Requests를 merge 해주시면 됩니다.
     * 스터디원분들을 Maintainer로 등록했습니다. 직접 해주시거나 제가 머지 할게요😊
+
+## PEP8 - PyCharm 설정
+* [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/) 에서 파이썬 코드 컨벤션을 참고해주세요
+* 사실 변수, 함수 등에 `function annotation`을 달아주는 게 권장사항입니다.
+    ```python
+    x: int = 1
+    a: List[int] = [1, 2, 3]
+    b: List[str] = ["a", "b", "c"]
+    c: Tuple[int, int] = (1, 2)
+    
+    def foo(x: int, y: int) -> int:
+        return x + y
+    ```
+    * 근데.. 귀찮으니 이건 하지 맙시다 ㅎㅎ
+### 한 줄의 문자 길이가 80글자 이하가 되어야 합니다.
+![hard_wrap_at](https://user-images.githubusercontent.com/38418028/150794459-11c2091b-d5e3-4b5e-a43e-ba849e37d654.png)
+
+* Editor > Code Style > Hard Wrap at > 숫자 변경
+* 화면에 80글자에 해당하는 위치에 세로선을 추가해줍니다.
+
+### 함수, 클래스 등은 빈 줄 두개로 구분한다.
+![method_separators](https://user-images.githubusercontent.com/38418028/150794455-a62e6796-0fc9-4efa-baf9-36131cfa6f35.png)
+
+* Editor > General > Appearance > ✅ Show method separators 체크
+* 각 함수에 구분선을 추가해줍니다.
