@@ -68,13 +68,13 @@
 <summary>3주차 - 21.02.03 목요일</summary>
 
 ### 1. [[BOJ] 17609 회문](https://www.acmicpc.net/problem/17609)
-* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 2. [[BOJ] 9663 N-Queen](https://www.acmicpc.net/problem/9663)
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
-### 3. [[BOJ] 1973 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
-* ![골드 3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
+### 3. [[BOJ] 1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 추가 문제. [[PGS] 84021 퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)
-* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%204-red)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 
 </details>
 
