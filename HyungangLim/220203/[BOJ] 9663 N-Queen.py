@@ -44,14 +44,16 @@ def is_possible(r, c):
     return True
 
 
-def dfs(r, c, dept):  # c는 안 쓰지만 없으니 뭔가 불안..
+def dfs(r, c, dept):
     global ans
     if dept == N:
         ans += 1
         return
 
-    for i in range(r+1, N):
+    for i in range(r+1, N):  # r+1부터 보기 때문에 동일행 내의 열검사는 불필요하다
         for j in range(N):
+            if c == j:
+                continue
             if is_possible(i, j):
                 board[i][j] = 1
                 dfs(i, j, dept+1)
