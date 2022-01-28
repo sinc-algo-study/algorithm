@@ -44,33 +44,22 @@ def is_possible(r, c):
     return True
 
 
-def dfs(r, c, dept):
+def dfs(row):
     global ans
-    if dept == N:
+    if row == N:
         ans += 1
         return
 
-    for i in range(r+1, N):  # r+1부터 보기 때문에 동일행 내의 열검사는 불필요하다
-        for j in range(N):
-            if c == j:
-                continue
-            if is_possible(i, j):
-                board[i][j] = 1
-                dfs(i, j, dept+1)
-                board[i][j] = 0
-
-
-def solution():
-    for i in range(N):
-        for j in range(N):
-            board[i][j] = 1
-            dfs(i, j, 1)
-            board[i][j] = 0
+    for col in range(N):
+        if is_possible(row, col):
+            board[row][col] = 1
+            dfs(row + 1)
+            board[row][col] = 0
 
 
 if __name__ == '__main__':
     ans = 0
     N = int(input())
     board = [[0 for _ in range(N)] for _ in range(N)]
-    solution()
+    dfs(0)
     print(ans)
