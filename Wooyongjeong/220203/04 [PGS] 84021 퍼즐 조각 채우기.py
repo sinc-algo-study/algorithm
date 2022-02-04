@@ -1,3 +1,6 @@
+import pprint
+
+
 def rotate(a):
     n = len(a)
     m = len(a[0])
@@ -23,6 +26,8 @@ def solution(game_board, table):
     def find_block(x, y, arr, p):
         if x < 0 or x >= n or y < 0 or y >= n:
             return
+        # game_board, table에서 0은 빈 공간, 1은 채워져 있는 공간
+        # p의 값에 따라 찾아야하는 값이 다름
         board = game_board if p == 0 else table
         if board[x][y] != p:
             return
@@ -35,6 +40,16 @@ def solution(game_board, table):
         find_block(x - 1, y, arr, p)
 
     def get_trimmed_block(block):
+        """
+        (행 번호, 열 번호) 형태로 저장돼 있는 block을 이차원 배열의 블록 형태로 바꿔줌
+        예) block = [(1, 2), (2, 1), (2, 2), (3, 2)]이라면
+        trimmed_block = [
+            [0, 1],
+            [1, 1],
+            [0, 1]
+        ]
+        과 같은 형태가 됨
+        """
         x_lst = [i[0] for i in block]
         y_lst = [i[1] for i in block]
         min_x, min_y = min(x_lst), min(y_lst)
@@ -69,10 +84,13 @@ def solution(game_board, table):
             b = rotate(b)
             t.append(b)
         trimmed.append(t)
+    for t in trimmed:
+        pprint.pprint(t, indent=4, width=1000)
 
     answer = 0
     for place in empty_places:
         p = get_trimmed_block(place)
+
         for i in range(len(trimmed)):
             find = False
             for j in range(4):
