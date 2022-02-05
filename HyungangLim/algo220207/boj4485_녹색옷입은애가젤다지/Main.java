@@ -1,4 +1,4 @@
-package algo220207.boj4485;
+package algo220207.boj4485_녹색옷입은애가젤다지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

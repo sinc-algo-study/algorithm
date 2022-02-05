@@ -1,4 +1,4 @@
-package algo220207.boj1753;
+package algo220207.boj1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

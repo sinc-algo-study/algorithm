@@ -1,4 +1,4 @@
-package algo220207.boj1525;
+package algo220207.boj1525_퍼즐;
 
 import java.io.BufferedReader;
 import java.io.IOException;
