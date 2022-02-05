@@ -1,4 +1,4 @@
-package algo220207.boj1753;
+package algo220207.boj1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -36,11 +36,13 @@ public class Main {
         PriorityQueue<Pair> pq = new PriorityQueue<>();
         pq.add(new Pair(K, 0));
         dist[K] = 0;
-        check[K] = true;
 
         while(!pq.isEmpty()) {
             Pair p = pq.poll();
             int now = p.node;
+            if(check[now]) continue;
+
+            check[now] = true;
             for(int i = 0; i < map[now].size(); i++) {
                 int next = map[now].get(i).node;
                 int weight = map[now].get(i).weight;
