@@ -88,10 +88,13 @@
 <summary>4주차 - 21.02.07 월요일</summary>
 
 ### 1. [[BOJ] 4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+* 다익스트라
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 2. [[BOJ] 1525 퍼즐](https://www.acmicpc.net/problem/1525)
+* BFS, 자료 구조
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 ### 추가 문제. [[PGS] 60063 블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)
+* 구현 (매우 어려운)
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 * 2020 KAKAO BLIND RECRUITMENT - 7번 문제
 
