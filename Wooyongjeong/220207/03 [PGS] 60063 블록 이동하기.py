@@ -25,8 +25,8 @@ def get_next_locations(location, board):
             next_locations.append({(x2, y2), (x2 - 1, y2)})  # 오른쪽 위로 회전
         if board[x1 + 1][y1] == 0 and board[x2 + 1][y2] == 0:
             # 아래로 회전이 가능한 경우
-            next_locations.append({(x1, y1), (x1 + 1, y1)})  # 왼쪽 아래로 회전
-            next_locations.append({(x2, y2), (x2 + 1, y2)})  # 오른쪽 아래로 회전
+            next_locations.append({(x1, y1), (x1 + 1, y1)})  # 오른쪽 아래로 회전
+            next_locations.append({(x2, y2), (x2 + 1, y2)})  # 왼쪽 아래로 회전
     elif y1 == y2:
         # 세로로 놓여 있던 경우
         if board[x1][y1 - 1] == 0 and board[x2][y2 - 1] == 0:
