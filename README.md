@@ -100,6 +100,16 @@
 
 </details>
 
+<details markdown="1">
+<summary>5주차 - 21.02.14 월요일</summary>
+
+### 1. [[BOJ] 1113 수영장 만들기](https://www.acmicpc.net/problem/1113)
+
+### 2. [[BOJ] 5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+
+</details>
+
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
