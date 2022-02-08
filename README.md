@@ -104,8 +104,14 @@
 <summary>5주차 - 21.02.14 월요일</summary>
 
 ### 1. [[BOJ] 1113 수영장 만들기](https://www.acmicpc.net/problem/1113)
-
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 2. [[BOJ] 5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 6236 용돈 관리](https://www.acmicpc.net/problem/6236)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
+### 추가 문제. [[PGS] 72414 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2021 KAKAO BLIND RECRUITMENT - 5번 문제
 
 </details>
 
