@@ -12,7 +12,7 @@
 
 ## 💻 문제 목록
 <details markdown="1">
-<summary>0주차 - 21.01.10 월요일</summary>
+<summary>0주차 - 22.01.10 월요일</summary>
 
 ### 1. [[BOJ] 2615 오목](https://www.acmicpc.net/problem/2615)
 * 구현, 브루트포스
@@ -29,7 +29,7 @@
 </details>
 
 <details markdown="1">
-<summary>1주차 - 21.01.17 월요일</summary>
+<summary>1주차 - 22.01.17 월요일</summary>
 
 ### 1. [[BOJ] 16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 * 구현
@@ -45,7 +45,7 @@
 </details>
 
 <details markdown="1">
-<summary>2주차 - 21.01.24 월요일</summary>
+<summary>2주차 - 22.01.24 월요일</summary>
 
 ### 1. [[BOJ] 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
 * 구현(조합), 브루트포스
@@ -65,7 +65,7 @@
 </details>
 
 <details markdown="1">
-<summary>3주차 - 21.02.03 목요일</summary>
+<summary>3주차 - 22.02.03 목요일</summary>
 
 ### 1. [[BOJ] 17609 회문](https://www.acmicpc.net/problem/17609)
 * 투 포인터, 문자열
@@ -85,7 +85,7 @@
 
 
 <details markdown="1">
-<summary>4주차 - 21.02.07 월요일</summary>
+<summary>4주차 - 22.02.07 월요일</summary>
 
 ### 1. [[BOJ] 4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
 * 다익스트라
@@ -101,14 +101,14 @@
 </details>
 
 <details markdown="1">
-<summary>5주차 - 21.02.14 월요일</summary>
+<summary>5주차 - 22.02.14 월요일</summary>
 
 ### 1. [[BOJ] 1113 수영장 만들기](https://www.acmicpc.net/problem/1113)
-* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
 ### 2. [[BOJ] 5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
-* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 3. [[BOJ] 6236 용돈 관리](https://www.acmicpc.net/problem/6236)
-* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
+* ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
 ### 추가 문제. [[PGS] 72414 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 * 2021 KAKAO BLIND RECRUITMENT - 5번 문제
