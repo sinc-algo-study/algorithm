@@ -5,20 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-/**
- *
- * 퍼즐조각맞추기에서는 n으로 행구분 하고 왜 여기선 안 함?
- * ->
- * 여기선 배열 전체를 문자열화하기 때문에 행구분이 필요 없다
- *
- * 퍼즐조각맞추기는 "전체 배열의 일부"인 퍼즐을 문자열화 하기 때문에
- * 퍼즐의 모양에 따라 매번 행/열이 달라지므로 n구분이 필요.
- *
- *
- * 종료조건을 어떻게 잡아야 할까...
- *
- */
-
 public class Main {
     static BufferedReader br;
     static StringTokenizer st;
