@@ -144,6 +144,20 @@ class Solution {
             }
         }
 
+        // 시간 차이는 있어도 로직은 맞지 않나..?
+//        long max = 0;
+//        int ansTime = 0;
+//        for(int i = 0; i <= playTime - advTime; i++) {  // i == adv 시작 시간
+//            long sum = 0;
+//            for(int j = i; j < advTime; j++) {
+//                sum += personPerSec[j];
+//            }
+//            if(sum > max) {
+//                max = sum;
+//                ansTime = i;
+//            }
+//        }
+
         int h = ansTime / 3600; ansTime %= 3600;
         int m = ansTime / 60;
         int s = ansTime % 60;
