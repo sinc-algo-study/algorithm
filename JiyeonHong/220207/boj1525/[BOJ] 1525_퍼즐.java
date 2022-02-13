@@ -2,7 +2,11 @@ package boj1525;
 
 import java.io.*;
 import java.util.*;
-
+/*
+- 3*3 배열로 탐색할려면 3*3칸 다 탐색해야됨 -> 문자열로 변환해서 탐색
+- 문자열에서 인덱스 idx의 값 = 배열에서 [idx/3][idx%3] 칸의 값
+- 최단 거리 찾아야 되므로 bfs로 0이 있는 칸에서 움직일 수 있는 칸들 방문하는 방식 반복
+ */
 class Main {
     public static int solution(String start) {
         start = start.replaceAll(" ", "");
@@ -34,7 +38,7 @@ class Main {
 
                     String s = swap(now, nr * 3 + nc, zeroIdx);
 
-                    if (!map.containsKey(s)) {
+                    if (!map.containsKey(s)) { //map에 존재하면 이미 탐색해본 문자열
                         map.put(s, map.get(now) + 1);
                         q.add(s);
                     }
