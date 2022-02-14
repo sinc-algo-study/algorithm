@@ -126,7 +126,7 @@
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 2. [[BOJ] 16236 아기 상어](https://www.acmicpc.net/problem/16236)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
-### 3. [[BOJ] 6236 폴더 정리](https://www.acmicpc.net/problem/6236)
+### 3. [[BOJ] 22860 폴더 정리](https://www.acmicpc.net/problem/22860)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 추가 문제. [[PGS] 64062 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
