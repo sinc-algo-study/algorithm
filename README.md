@@ -104,14 +104,33 @@
 <summary>5주차 - 22.02.14 월요일</summary>
 
 ### 1. [[BOJ] 1113 수영장 만들기](https://www.acmicpc.net/problem/1113)
+* BFS
 * ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
 ### 2. [[BOJ] 5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+* DP
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 3. [[BOJ] 6236 용돈 관리](https://www.acmicpc.net/problem/6236)
+* 이분 탐색
 * ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
 ### 추가 문제. [[PGS] 72414 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+* 구현
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 * 2021 KAKAO BLIND RECRUITMENT - 5번 문제
+
+</details>
+
+<details markdown="1">
+<summary>6주차 - 22.02.21 월요일</summary>
+
+### 1. [[BOJ] 2156 수영장 만들기](https://www.acmicpc.net/problem/2156)
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
+### 2. [[BOJ] 16236 아기 상어](https://www.acmicpc.net/problem/16236)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 3. [[BOJ] 6236 폴더 정리](https://www.acmicpc.net/problem/6236)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 추가 문제. [[PGS] 64062 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2019 KAKAO 개발자 겨울 인턴십
 
 </details>
 
