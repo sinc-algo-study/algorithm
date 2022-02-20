@@ -1,88 +1,5 @@
 package algo220214.pgs72414_광고삽입;
 
-//import java.text.ParseException;
-//import java.text.SimpleDateFormat;
-//import java.util.ArrayList;
-//import java.util.Collections;
-//import java.util.Date;
-//import java.util.List;
-
-
-/**
- *
- * 만약, 시청자들의 누적 재생시간이 가장 많은 곳이 여러 곳이라면,
- * 그 중에서 가장 빠른 시작 시각을 return 하도록 합니다.
- * -> 가장 빨리 나오는 정답을 바로 반환하자
- *
- * 1. 브루트포스 - 00:00:00 ~ play_time 각 위치에서 adv_time을 다 넣어보고 각각의 logs의 합을 구하면?
- * ->
- * play_time 은 최대 359,999 초
- * logs는 최대 300,000
- * ->
- * 36만 * 30만 = 1080억.. 절대 불가능
- *
- *
- * 2. logs를 시작시간 기준으로 정렬
- * ->
- * 각 시작시간에 adv_time 맞추는 것으로 하여 총 재생시간 계산한다면?
- * 30만가지 경우가 나오긴 하겠지만 한가지 경우에 대해 30만번 다 체크할 필요는 없다
- * (adv_time 범위 내에 있는 것만 체크하면 되니까)
- * ->
- * 예외 케이스
- * play_time : 10:00:00
- * adv_time : 03:30:00
- * logs : [[02:00:00 ~ 04:00:00], [03:00:00 ~ 05:00:00]]
- * ans = 01:30:00 이지만 02:00:00가 나와버린다.
- *
- *
- * 3. 그럼.. logs의 종료시간을 기준으로 본다면?
- * adv_time의 끝이 각 log의 끄트머리에 걸쳐지며 검사가 이뤄지니 가능할듯?
- * -> 일단 해보자
- * -> 이것도 반례 존재..
- * -> 반드시 어떤 log의 시작점이나 끝점에 걸친다는 건 보장되지 않는다.
- *
- */
-
-//class Log implements Comparable<Log> {
-//    String begin, end;
-//    long time;
-//    Log(String begin, String end, long time) {
-//        this.begin = begin;
-//        this.end = end;
-//        this.time = time;
-//    }
-//
-//    @Override
-//    public int compareTo(Log o) {
-//        // end 문자열 기준 내림차순 정렬
-//        return o.end.compareTo(this.end);
-//    }
-//}
-//
-//class Solution {
-//
-//    public String solution(String play_time, String adv_time, String[] logs) throws ParseException {
-//        // answer는 adv_time의 종료 시간이다
-//        // 문제의 요구사항은 adv_time의 시작시간이다
-//        // 즉, answer - adv_time을 반환해야 한다
-//
-//        String answer = "99:59:59";
-//        List<Log> list = new ArrayList<>();
-//        SimpleDateFormat sdf = new SimpleDateFormat("HH:MM:SS");
-//
-//        for(int i = 0; i < logs.length; i++) {
-//            String[] split = logs[i].split("~");
-//            Date begin = sdf.parse(split[0]);
-//            Date end = sdf.parse(split[1]);
-//            long time = (end.getTime() - begin.getTime()) / 1000;
-//            list.add(new Log(split[0], split[1], time));
-//        }
-//        Collections.sort(list);
-//
-//        return answer;
-//    }
-//}
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.TimeZone;
@@ -127,14 +44,14 @@ class Solution {
         // 슬라이딩 윈도우 사용을 위해 일단 00:00:00 시작은 그냥 구해준다
         int ansTime = 0;
         long sum = 0;
-        long max = 0;
         for(int i = 0; i < advTime; i++) {
             sum += personPerSec[i];
         }
-        max = sum;
+        long max = sum;
 
         int startTime = 0;
         int endTime = advTime;
+
         while(startTime <= playTime-advTime) {  // 슬라이딩 윈도우. <, <= 결과가 똑같다? <=가 맞을 거 같긴 한데
             sum -= personPerSec[startTime++];
             sum += personPerSec[endTime++];
@@ -143,20 +60,6 @@ class Solution {
                 ansTime = startTime;
             }
         }
-
-        // 시간 차이는 있어도 로직은 맞지 않나..?
-//        long max = 0;
-//        int ansTime = 0;
-//        for(int i = 0; i <= playTime - advTime; i++) {  // i == adv 시작 시간
-//            long sum = 0;
-//            for(int j = i; j < advTime; j++) {
-//                sum += personPerSec[j];
-//            }
-//            if(sum > max) {
-//                max = sum;
-//                ansTime = i;
-//            }
-//        }
 
         int h = ansTime / 3600; ansTime %= 3600;
         int m = ansTime / 60;
