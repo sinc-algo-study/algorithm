@@ -134,7 +134,7 @@
 ### 추가 문제. [[PGS] 64062 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
 * 이진 탐색
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
-* 2019 KAKAO 개발자 겨울 인턴십 5
+* 2019 KAKAO 개발자 겨울 인턴십 5번 문제
 
 </details>
 
