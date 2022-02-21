@@ -3,7 +3,12 @@ package boj6236;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/*
+통장에서 K원을 인출
+통장에서 뺀 돈으로 하루를 보낼 수 있으면 그대로 사용
+모자라게 되면 남은 금액은 통장에 집어넣고 다시 K원을 인출
+정확히 M번을 맞추기 위해서 남은 금액이 그날 사용할 금액보다 많더라도 남은 금액은 통장에 집어넣고 다시 K원을 인출
+ */
 class Main{
     public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
