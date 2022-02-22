@@ -138,6 +138,20 @@
 
 </details>
 
+<details markdown="1">
+<summary>7주차 - 22.02.28 월요일</summary>
+
+### 1. [[BOJ] 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
+### 2. [[BOJ] 11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 21611 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 추가 문제. [[BOJ] 1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+
+</details>
+
 
 
 ## ✅ Pull Requests 하는 방법
