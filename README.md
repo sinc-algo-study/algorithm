@@ -139,7 +139,7 @@
 </details>
 
 <details markdown="1">
-<summary>7주차 - 22.02.28 월요일</summary>
+<summary>7주차 - 22.03.01 화요일</summary>
 
 ### 1. [[BOJ] 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
