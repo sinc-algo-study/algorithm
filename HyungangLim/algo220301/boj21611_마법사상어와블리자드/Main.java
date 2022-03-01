@@ -106,7 +106,7 @@ public class Main {
     public static void doInstruction(int inst) {
         // inst 1 : convert arr to que (구슬 이동)
         // inst 2 : convert que to arr (구슬 이동)
-        // inst 3 : check explodable marble's pairs (구슬 폭파)
+        // inst 3 : 폭파할 구슬 체크     (구슬 폭파)
         // inst 4 : convert arr to que (구슬 변형)
 
         if(inst == 1) {
