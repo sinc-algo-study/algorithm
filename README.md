@@ -142,16 +142,33 @@
 <summary>7주차 - 22.03.01 화요일</summary>
 
 ### 1. [[BOJ] 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+* 분할 정복, 재귀
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 2. [[BOJ] 11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+* DP (LIS)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 3. [[BOJ] 21611 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+* 구현, 시뮬레이션 (매우 빡센)
 * ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
 ### 추가 문제. [[BOJ] 1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+* 구현, 재귀
 * ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
 
 </details>
 
+<details markdown="1">
+<summary>8주차 - 22.03.07 월요일</summary>
+
+### 1. [[BOJ] 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 2. [[BOJ] 9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 16197 두 동전](https://www.acmicpc.net/problem/16197)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[PGS] 60061 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+
+</details>
 
 
 ## ✅ Pull Requests 하는 방법
