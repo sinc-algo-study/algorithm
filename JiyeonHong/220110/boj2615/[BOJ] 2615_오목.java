@@ -1,3 +1,5 @@
+package  boj2615;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -17,7 +19,7 @@ import java.io.InputStreamReader;
 - six 배열에 true
 */
 
-public class BOJ_2615 {
+class BOJ_2615 {
     static int[] dirR = { 0, 1, 1, 1 };
     static int[] dirC = { 1, -1, 0, 1 };
     static int[][] board = new int[21][21];

@@ -12,7 +12,7 @@
 
 ## 💻 문제 목록
 <details markdown="1">
-<summary>0주차 - 21.01.10 월요일</summary>
+<summary>0주차 - 22.01.10 월요일</summary>
 
 ### 1. [[BOJ] 2615 오목](https://www.acmicpc.net/problem/2615)
 * 구현, 브루트포스
@@ -29,7 +29,7 @@
 </details>
 
 <details markdown="1">
-<summary>1주차 - 21.01.17 월요일</summary>
+<summary>1주차 - 22.01.17 월요일</summary>
 
 ### 1. [[BOJ] 16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 * 구현
@@ -45,7 +45,7 @@
 </details>
 
 <details markdown="1">
-<summary>2주차 - 21.01.24 월요일</summary>
+<summary>2주차 - 22.01.24 월요일</summary>
 
 ### 1. [[BOJ] 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
 * 구현(조합), 브루트포스
@@ -65,7 +65,7 @@
 </details>
 
 <details markdown="1">
-<summary>3주차 - 21.02.03 목요일</summary>
+<summary>3주차 - 22.02.03 목요일</summary>
 
 ### 1. [[BOJ] 17609 회문](https://www.acmicpc.net/problem/17609)
 * 투 포인터, 문자열
@@ -85,17 +85,91 @@
 
 
 <details markdown="1">
-<summary>4주차 - 21.02.07 월요일</summary>
+<summary>4주차 - 22.02.07 월요일</summary>
 
 ### 1. [[BOJ] 4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+* 다익스트라
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 2. [[BOJ] 1525 퍼즐](https://www.acmicpc.net/problem/1525)
+* BFS, 자료 구조
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 ### 추가 문제. [[PGS] 60063 블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)
+* 구현 (매우 어려운)
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 * 2020 KAKAO BLIND RECRUITMENT - 7번 문제
 
 </details>
+
+<details markdown="1">
+<summary>5주차 - 22.02.14 월요일</summary>
+
+### 1. [[BOJ] 1113 수영장 만들기](https://www.acmicpc.net/problem/1113)
+* BFS
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+### 2. [[BOJ] 5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+* DP
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 3. [[BOJ] 6236 용돈 관리](https://www.acmicpc.net/problem/6236)
+* 이분 탐색
+* ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
+### 추가 문제. [[PGS] 72414 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+* 구현
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2021 KAKAO BLIND RECRUITMENT - 5번 문제
+
+</details>
+
+<details markdown="1">
+<summary>6주차 - 22.02.21 월요일</summary>
+
+### 1. [[BOJ] 2156 포도주 시식](https://www.acmicpc.net/problem/2156)
+* DP
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
+### 2. [[BOJ] 16236 아기 상어](https://www.acmicpc.net/problem/16236)
+* 구현, BFS
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 22860 폴더 정리](https://www.acmicpc.net/problem/22860)
+* 자료구조 (트리, 그래프), 재귀
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 추가 문제. [[PGS] 64062 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+* 이진 탐색
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2019 KAKAO 개발자 겨울 인턴십 5번 문제
+
+</details>
+
+<details markdown="1">
+<summary>7주차 - 22.03.01 화요일</summary>
+
+### 1. [[BOJ] 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+* 분할 정복, 재귀
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
+### 2. [[BOJ] 11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+* DP (LIS)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 21611 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+* 구현, 시뮬레이션 (매우 빡센)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+### 추가 문제. [[BOJ] 1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+* 구현, 재귀
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+
+</details>
+
+<details markdown="1">
+<summary>8주차 - 22.03.07 월요일</summary>
+
+### 1. [[BOJ] 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 2. [[BOJ] 9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 16197 두 동전](https://www.acmicpc.net/problem/16197)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[PGS] 60061 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+
+</details>
+
 
 ## ✅ Pull Requests 하는 방법
 
