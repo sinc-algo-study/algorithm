@@ -10,7 +10,24 @@ class Main{
     static Map<String,Integer> foldersIdx; //folders에서 폴더 이름의 인덱스
     static Set<String> files;
     static int count=0;
+/*
+3 4
+main FolderA 1
+main FolderB 1
+FolderA File1 0
+FolderA File2 0
+FolderB FolderC 1
+FolderB File1 0
+FolderB File3 0
 
+Map main:0
+    FolderA:1
+    FolderB:2
+
+ArrayList[]
+0 : FolderA FolderB
+1 : file1
+ */
     public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         String s=br.readLine();
