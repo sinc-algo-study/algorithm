@@ -85,9 +85,9 @@ public class Main {
                 if(arr[nr][nc] == marble) {
                     cnt += 1;  // 그룹을 구성하는 구슬 개수 센다
                 }else {        // 다른 그룹으로 넘어감
-                    if(marble != 4) {    // 최초 상어 칸에 대한 예외처리
-                        que.add(cnt);
-                        que.add(marble);
+                    if(marble != 4) {     // 최초 상어 칸에 대한 예외처리
+                        que.add(cnt);     // A
+                        que.add(marble);  // B
                     }
 
                     if(arr[nr][nc] == 0) {  // 다 당겨놨기 때문에 0이 나왔다면 더이상 진행 불필요
@@ -106,7 +106,7 @@ public class Main {
     public static void doInstruction(int inst) {
         // inst 1 : convert arr to que (구슬 이동)
         // inst 2 : convert que to arr (구슬 이동)
-        // inst 3 : 폭파할 구슬 체크     (구슬 폭파)
+        // inst 3 : 폭파시킬 수 있는 구슬 체크 (구슬 폭파)
         // inst 4 : convert arr to que (구슬 변형)
 
         if(inst == 1) {
