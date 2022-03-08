@@ -170,6 +170,20 @@
 
 </details>
 
+<details markdown="1">
+<summary>8주차 - 22.03.14 월요일</summary>
+
+### 1. [[BOJ] 13398 연속합 2](https://www.acmicpc.net/problem/13398)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 2. [[BOJ] 16562 친구비](https://www.acmicpc.net/problem/16562)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[PGS] 81302 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+* ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
+### 추가 문제. [[BOJ] 2146 다리 만들기](https://www.acmicpc.net/problem/2146)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+
+</details>
+
 
 ## ✅ Pull Requests 하는 방법
 
