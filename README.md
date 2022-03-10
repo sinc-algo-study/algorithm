@@ -160,12 +160,16 @@
 <summary>8주차 - 22.03.07 월요일</summary>
 
 ### 1. [[BOJ] 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)
+* 구현, 시뮬레이션, BFS
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 2. [[BOJ] 9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
+* 문자열, 자료 구조(스택)
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 3. [[BOJ] 16197 두 동전](https://www.acmicpc.net/problem/16197)
+* DFS, BFS, 백트래킹
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 추가 문제. [[PGS] 60061 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+* 구현
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 
 </details>
