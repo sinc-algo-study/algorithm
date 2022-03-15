@@ -134,7 +134,7 @@
 ### 추가 문제. [[PGS] 64062 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
 * 이진 탐색
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
-* 2019 KAKAO 개발자 겨울 인턴십 5번 문제
+* 2019 KAKAO 개발자 겨울 인턴십 - 5번 문제
 
 </details>
 
@@ -171,6 +171,7 @@
 ### 추가 문제. [[PGS] 60061 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
 * 구현
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2020 KAKAO BLIND RECRUITMENT - 5번 문제
 
 </details>
 
@@ -178,13 +179,33 @@
 <summary>8주차 - 22.03.14 월요일</summary>
 
 ### 1. [[BOJ] 13398 연속합 2](https://www.acmicpc.net/problem/13398)
+* 다이나믹 프로그래밍
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 2. [[BOJ] 16562 친구비](https://www.acmicpc.net/problem/16562)
+* 분리 집합 (Union-Find)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 3. [[PGS] 81302 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+* 구현, 시뮬레이션
 * ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
+* 2021 카카오 채용연계형 인턴십 - 2번 문제
 ### 추가 문제. [[BOJ] 2146 다리 만들기](https://www.acmicpc.net/problem/2146)
+* 구현, 그래프 탐색(DFS, BFS)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+
+</details>
+
+<details markdown="1">
+<summary>9주차 - 22.03.21 월요일</summary>
+
+### 1. [[PGS] 92341 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+* ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
+* 2022 KAKAO BLIND RECRUITMENT - 3번 문제
+### 2. [[BOJ] 17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 2294 동전 2](https://www.acmicpc.net/problem/2294)
+* ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
+### 추가 문제. [[BOJ] 14267 회사 문화 1](https://www.acmicpc.net/problem/14267)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 
 </details>
 
