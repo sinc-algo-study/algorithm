@@ -2,7 +2,13 @@ package boj9935;
 
 import java.util.Scanner;
 import java.util.Stack;
-
+/*
+스택 이용
+1. 문자열 0번째 문자부터 스택에 넣으면서
+2. 만약 stack size >= 폭발 문자열 길이 이면
+3. stack에서 폭발 문자열 길이만큼 문자열 꺼내서
+4. 같으면 stack에서 pop
+ */
 class Main{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
