@@ -206,6 +206,8 @@
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 추가 문제. [[BOJ] 14267 회사 문화 1](https://www.acmicpc.net/problem/14267)
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[BOJ] 1949 우수 마을](https://www.acmicpc.net/problem/1949)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 
 </details>
 
