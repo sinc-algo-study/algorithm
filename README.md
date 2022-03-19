@@ -176,7 +176,7 @@
 </details>
 
 <details markdown="1">
-<summary>8주차 - 22.03.14 월요일</summary>
+<summary>9주차 - 22.03.14 월요일</summary>
 
 ### 1. [[BOJ] 13398 연속합 2](https://www.acmicpc.net/problem/13398)
 * 다이나믹 프로그래밍
@@ -195,7 +195,7 @@
 </details>
 
 <details markdown="1">
-<summary>9주차 - 22.03.21 월요일</summary>
+<summary>10주차 - 22.03.21 월요일</summary>
 
 ### 1. [[PGS] 92341 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
 * ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
