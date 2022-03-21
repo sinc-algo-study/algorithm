@@ -117,8 +117,6 @@ public class Main {
                 map[i][j] = input.charAt(j);
             }
         }
-
-
     }
 
     public static void output() {
