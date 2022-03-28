@@ -198,15 +198,20 @@
 <summary>10주차 - 22.03.21 월요일</summary>
 
 ### 1. [[PGS] 92341 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+* 구현
 * ![LV.2](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%202-yellow)
 * 2022 KAKAO BLIND RECRUITMENT - 3번 문제
 ### 2. [[BOJ] 17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+* 구현, 시뮬레이션
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 3. [[BOJ] 2294 동전 2](https://www.acmicpc.net/problem/2294)
+* 다이나믹 프로그래밍
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 추가 문제. [[BOJ] 14267 회사 문화 1](https://www.acmicpc.net/problem/14267)
+* 트리
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 추가 문제. [[BOJ] 1949 우수 마을](https://www.acmicpc.net/problem/1949)
+* 트리에서의 다이나믹 프로그래밍
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 
 </details>
@@ -215,12 +220,16 @@
 <summary>11주차 - 22.03.28 월요일</summary>
 
 ### 1. [[BOJ] 16235 나무 재테크](https://www.acmicpc.net/problem/16235)
+* 구현, 시뮬레이션
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 2. [[BOJ] 2302 극장 좌석](https://www.acmicpc.net/problem/2302)
+* 다이나믹 프로그래밍
 * ![실버 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20I-lightgrey)
 ### 3. [[BOJ] 2370 시장 선거 포스터](https://www.acmicpc.net/problem/2370)
+* 구현
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 추가 문제. [[BOJ] 2151 거울 설치](https://www.acmicpc.net/problem/2151)
+* BFS
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 
 </details>
