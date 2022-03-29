@@ -234,6 +234,21 @@
 
 </details>
 
+<details markdown="1">
+<summary>12주차 - 22.04.04 월요일</summary>
+
+### 1. [[BOJ] 14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* 삼성 SW 역량 테스트 기출
+### 2. [[BOJ] 15684 사다리 조작](https://www.acmicpc.net/problem/15684)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* 삼성 SW 역량 테스트 기출
+### 3. [[BOJ] 21278 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 추가 문제. [[PGS] 62050 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)
+* ![LV.4](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%204-red)
+* 힌트) '그래프 형태'로 생각하기
+</details>
 
 ## ✅ Pull Requests 하는 방법
 
