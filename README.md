@@ -247,7 +247,8 @@
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 추가 문제. [[PGS] 62050 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)
 * ![LV.4](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%204-red)
-* 힌트) '그래프 형태'로 생각하기
+* 힌트) '그래프 형태'로 생각하기. 사다리 없이 이동 가능한 부분들을 노드로, 사다리를 간선으로.
+* [해설](https://prgms.tistory.com/20)
 </details>
 
 ## ✅ Pull Requests 하는 방법
