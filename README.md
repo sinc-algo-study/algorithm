@@ -251,6 +251,21 @@
 * [해설](https://prgms.tistory.com/20)
 </details>
 
+<details markdown="1">
+<summary>13주차 - 22.04.11 월요일</summary>
+
+### 1. [[BOJ] 17143 낚시왕](https://www.acmicpc.net/problem/17143)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+* 삼성 SW 역량 테스트 기출
+### 2. [[BOJ] 21609 상어 중학교](https://www.acmicpc.net/problem/21609)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+* 삼성 SW 역량 테스트 기출
+### 3. [[BOJ] 12781 PIZZA ALVOLOC](https://www.acmicpc.net/problem/12781)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[BOJ] 1480 보석 모으기](https://www.acmicpc.net/problem/1480)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+</details>
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
