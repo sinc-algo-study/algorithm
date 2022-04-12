@@ -259,15 +259,35 @@
 <summary>13주차 - 22.04.11 월요일</summary>
 
 ### 1. [[BOJ] 17143 낚시왕](https://www.acmicpc.net/problem/17143)
+* 구현, 시뮬레이션
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 * 삼성 SW 역량 테스트 기출
 ### 2. [[BOJ] 21609 상어 중학교](https://www.acmicpc.net/problem/21609)
+* 구현, 시뮬레이션, 그래프 탐색 (DFS, BFS)
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 * 삼성 SW 역량 테스트 기출
 ### 3. [[BOJ] 12781 PIZZA ALVOLOC](https://www.acmicpc.net/problem/12781)
+* 기하학, 선분 교차 판정
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 추가 문제. [[BOJ] 1480 보석 모으기](https://www.acmicpc.net/problem/1480)
+* 다이나믹 프로그래밍 + 비트마스킹
 * ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+</details>
+
+<details markdown="1">
+<summary>14주차 - 22.04.18 월요일</summary>
+
+### 1. [[BOJ] 20056 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* 삼성 SW 역량 테스트 기출
+### 2. [[BOJ] 16637 괄호 추가하기](https://www.acmicpc.net/problem/16637)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+* 삼성 A형 기출
+### 3. [[BOJ] 20166 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 추가 문제. [[PGS] 81303 표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2021 카카오 채용연계형 인턴십 - 3번 문제
 </details>
 
 ## ✅ Pull Requests 하는 방법
