@@ -305,9 +305,9 @@
 * 삼성 A형 기출
 ### 3. [[BOJ] 1826 연료 채우기](https://www.acmicpc.net/problem/1826)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
-### 추가 문제. [[PGS] 81304 미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304)
-* ![LV.4](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%204-red)
-* 2021 카카오 채용연계형 인턴십 - 4번 문제
+### 추가 문제. [[PGS] 67258 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+* ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
+* 2020 카카오 인턴십 - 3번 문제
 </details>
 
 ## ✅ Pull Requests 하는 방법
