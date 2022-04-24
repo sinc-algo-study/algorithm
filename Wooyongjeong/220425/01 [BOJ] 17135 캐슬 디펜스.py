@@ -4,16 +4,15 @@
 castle_defense()에서
 1. 서순을 잘 짜자 (궁수의 사정거리에서 벗어났음에도 candidates에 넣고 있었음)
 2. candidates 중에서 궁수가 공격할 적을 선택할 때
-    - 가장 왼쪽만 고려했었음,,
+    - 사정거리도 고려했어야 됐는데 빼먹고 가장 왼쪽만 고려했었음,,
     - 사정거리가 되면 모두 candidates에 넣기 때문에 가장 가까운 적을 고려하지 못했음!
 """
 import collections
 import copy
 from itertools import combinations
-from typing import Tuple, List, Dict
 
 
-def castle_defense(archers: Tuple, enemies: Dict[Tuple, bool]) -> int:
+def castle_defense(archers: tuple, enemies: dict[tuple, bool]) -> int:
     kill_cnt: int = 0
 
     while enemies:
@@ -36,7 +35,7 @@ def castle_defense(archers: Tuple, enemies: Dict[Tuple, bool]) -> int:
     return kill_cnt
 
 
-def find_enemy(archer: int, enemies: Dict[Tuple, bool]) -> Tuple[int, int]:
+def find_enemy(archer: int, enemies: dict[tuple, bool]) -> tuple[int, int]:
     q = collections.deque()
     visited = set()
     q.append((N - 1, archer, 1))  # (x, y, d)
@@ -71,7 +70,7 @@ def in_range(x: int, y: int) -> bool:
     return 0 <= x < N and 0 <= y < M
 
 
-def move_enemies(enemies: Dict[Tuple, bool]) -> Dict[Tuple, bool]:
+def move_enemies(enemies: dict[tuple, bool]) -> dict[tuple, bool]:
     new_enemies = {}
     for (x, y) in enemies:
         if x == N - 1:  # 성이 있는 칸으로 이동한 경우
@@ -80,7 +79,7 @@ def move_enemies(enemies: Dict[Tuple, bool]) -> Dict[Tuple, bool]:
     return new_enemies
 
 
-def solution(enemies: Dict[Tuple, bool]) -> int:
+def solution(enemies: dict[tuple, bool]) -> int:
     answer: int = 0
     for archers in combinations(range(M), ARCHER_SIZE):
         copied_enemies = copy.deepcopy(enemies)
