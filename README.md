@@ -299,15 +299,34 @@
 
 ### 1. [[BOJ] 17135 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* 구현, 시뮬레이션, 브루트포스
 * 삼성 A형 기출
 ### 2. [[BOJ] 17136 색종이 붙이기](https://www.acmicpc.net/problem/17136)
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+* 브루트포스, 백트래킹
 * 삼성 A형 기출
 ### 3. [[BOJ] 1826 연료 채우기](https://www.acmicpc.net/problem/1826)
+* 그리디, 우선순위 큐
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 추가 문제. [[PGS] 67258 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+* 투 포인터
 * ![LV.3](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.%203-orange)
 * 2020 카카오 인턴십 - 3번 문제
+</details>
+
+<details markdown="1">
+<summary>16주차 - 22.05.02 월요일</summary>
+
+### 1. [[BOJ] 17406 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* 삼성 A형 기출
+### 2. [[BOJ] 20057 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+* 삼성 SW 역량 테스트 기출
+### 3. [[BOJ] 22945 팀 빌딩](https://www.acmicpc.net/problem/22945)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[BOJ] 2533 사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 </details>
 
 ## ✅ Pull Requests 하는 방법
