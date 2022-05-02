@@ -329,6 +329,19 @@
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 </details>
 
+<details markdown="1">
+<summary>17주차 - 22.05.09 월요일</summary>
+
+### 1. [[BOJ] 17837 새로운 게임 2](https://www.acmicpc.net/problem/17837)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+### 2. [[BOJ] 1493 박스채우기](https://www.acmicpc.net/problem/1493)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 1039 교환](https://www.acmicpc.net/problem/1039)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 추가 문제. [[BOJ] 1484 등산](https://www.acmicpc.net/problem/1486)
+* ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
+</details>
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
