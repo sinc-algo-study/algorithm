@@ -349,7 +349,7 @@
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 2. [[BOJ] 16437 양 구출 작전](https://www.acmicpc.net/problem/16437)
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
-### 3. [[BOJ] 20542 받아쓰](https://www.acmicpc.net/problem/20542)
+### 3. [[BOJ] 20542 받아쓰기](https://www.acmicpc.net/problem/20542)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 추가 문제. [[BOJ] 3687 성냥개비](https://www.acmicpc.net/problem/3687)
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
