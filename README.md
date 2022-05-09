@@ -342,6 +342,19 @@
 * ![골드 1](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20I-yellow)
 </details>
 
+<details markdown="1">
+<summary>17주차 - 22.05.16 월요일</summary>
+
+### 1. [[BOJ] 19238 스타트 택시](https://www.acmicpc.net/problem/19238)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 2. [[BOJ] 16437 양 구출 작전](https://www.acmicpc.net/problem/16437)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+### 3. [[BOJ] 20542 받아쓰](https://www.acmicpc.net/problem/20542)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 추가 문제. [[BOJ] 3687 성냥개비](https://www.acmicpc.net/problem/3687)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+</details>
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
