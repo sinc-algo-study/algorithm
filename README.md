@@ -355,6 +355,24 @@
 * ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
 </details>
 
+
+
+<details markdown="1">
+<summary>5주차 - 22.05.23 월요일</summary>
+
+### 1. [[BOJ] 14890 경사로](https://www.acmicpc.net/problem/14890)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 2. [[BOJ] 1062 가르침](https://www.acmicpc.net/problem/1062)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 14938 서강그라운드](https://www.acmicpc.net/problem/14938)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[BOJ] 2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+
+</details>
+
+
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
