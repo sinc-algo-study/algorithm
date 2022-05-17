@@ -358,7 +358,7 @@
 
 
 <details markdown="1">
-<summary>5주차 - 22.05.23 월요일</summary>
+<summary>19주차 - 22.05.23 월요일</summary>
 
 ### 1. [[BOJ] 14890 경사로](https://www.acmicpc.net/problem/14890)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
