@@ -371,6 +371,20 @@
 
 </details>
 
+<details markdown="1">
+<summary>20주차 - 22.05.30 월요일</summary>
+
+### 1. [[BOJ] 17255 N으로 만들기](https://www.acmicpc.net/problem/14890)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 2. [[BOJ] 1030 프렉탈 평면](https://www.acmicpc.net/problem/1030)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 20061 모노미노도미노](https://www.acmicpc.net/problem/20061)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+### 추가 문제. [[BOJ] 10423 전기가 부족해](https://www.acmicpc.net/problem/10423)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+
+</details>
+
 
 
 ## ✅ Pull Requests 하는 방법
