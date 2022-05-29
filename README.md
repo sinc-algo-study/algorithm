@@ -374,7 +374,7 @@
 <details markdown="1">
 <summary>20주차 - 22.05.30 월요일</summary>
 
-### 1. [[BOJ] 17255 N으로 만들기](https://www.acmicpc.net/problem/14890)
+### 1. [[BOJ] 17255 N으로 만들기](https://www.acmicpc.net/problem/17255)
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
 ### 2. [[BOJ] 1030 프렉탈 평면](https://www.acmicpc.net/problem/1030)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
