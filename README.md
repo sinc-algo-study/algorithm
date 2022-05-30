@@ -385,6 +385,19 @@
 
 </details>
 
+<details markdown="1">
+<summary>21주차 - 22.06.06 월요일</summary>
+
+### 1. [[BOJ] 22944 죽음의 비](https://www.acmicpc.net/problem/22944)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 2. [[BOJ] 1613 역사](https://www.acmicpc.net/problem/1613)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 1939 중량제한](https://www.acmicpc.net/problem/1939)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 추가 문제. [[BOJ] 21922 학부 연구생 민상](https://www.acmicpc.net/problem/21922)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+
+</details>
 
 
 ## ✅ Pull Requests 하는 방법
