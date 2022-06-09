@@ -400,7 +400,7 @@
 </details>
 
 <details markdown="1">
-<summary>21주차 - 22.06.13 월요일</summary>
+<summary>22주차 - 22.06.13 월요일</summary>
 
 ### 1. [[BOJ] 2638 치즈](https://www.acmicpc.net/problem/2638)
 * ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
