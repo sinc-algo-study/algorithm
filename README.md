@@ -399,6 +399,19 @@
 
 </details>
 
+<details markdown="1">
+<summary>21주차 - 22.06.13 월요일</summary>
+
+### 1. [[BOJ] 2638 치즈](https://www.acmicpc.net/problem/2638)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 2. [[BOJ] 1976 여행 가자](https://www.acmicpc.net/problem/1976)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 3. [[BOJ] 2310 어드벤처 게임](https://www.acmicpc.net/problem/2310)
+* ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
+### 추가 문제. [[BOJ] 8972 미친 아두이노](https://www.acmicpc.net/problem/8972)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+
+</details>
 
 ## ✅ Pull Requests 하는 방법
 
