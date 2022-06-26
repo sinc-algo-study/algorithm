@@ -419,7 +419,7 @@
 ### 1. [[BOJ] 1068 트리](https://www.acmicpc.net/problem/1068)
 * ![골드 5](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20V-yellow)
 ### 2. [[BOJ] 1965 상자넣기](https://www.acmicpc.net/problem/1965)
-* ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+* ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
 ### 3. [[BOJ] 1941 소문난 칠공주](https://www.acmicpc.net/problem/1941)
 * ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
 ### 추가 문제. [[BOJ] 1079 마피아](https://www.acmicpc.net/problem/1079)
