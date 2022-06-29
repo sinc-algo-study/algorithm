@@ -427,6 +427,7 @@
 
 </details>
 
+<details markdown="1">
 <summary>24주차 - 22.07.04 월요일</summary>
 
 ### 1. [[BOJ] 14722 우유 도시](https://www.acmicpc.net/problem/14722)
