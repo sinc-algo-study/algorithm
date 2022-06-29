@@ -427,6 +427,19 @@
 
 </details>
 
+<summary>24주차 - 22.07.04 월요일</summary>
+
+### 1. [[BOJ] 14722 우유 도시](https://www.acmicpc.net/problem/14722)
+* ![골드 4](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20IV-yellow)
+### 2. [[BOJ] 2186 문자판](https://www.acmicpc.net/problem/2186)
+* ![골드 3](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20III-yellow)
+### 3. [[BOJ] 1283 단축키 지정](https://www.acmicpc.net/problem/1283)
+* ![실버 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-SILVER%20II-lightgrey)
+### 추가 문제. [[BOJ] 21942 부품 대여장](https://www.acmicpc.net/problem/21942)
+* ![골드 2](https://img.shields.io/badge/%EB%B0%B1%EC%A4%80-GOLD%20II-yellow)
+
+</details>
+
 ## ✅ Pull Requests 하는 방법
 
 1. 이 repository를 본인의 github repository로 Fork합니다.
